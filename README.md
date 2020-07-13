@@ -1,5 +1,5 @@
 # cAdventures
-*A place for my C related stuff.
+*A place for my C related stuff.*
 
 I plan to put all my little projects here to keep track.
 
